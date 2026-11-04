@@ -1,5 +1,7 @@
 # wake-proxy
 
+[![ci](https://github.com/Ashen00001/wake-proxy/actions/workflows/ci.yml/badge.svg)](https://github.com/Ashen00001/wake-proxy/actions/workflows/ci.yml) ![license](https://img.shields.io/badge/license-MIT-blue) ![go](https://img.shields.io/badge/Go-stdlib%20only-00ADD8)
+
 A tiny HTTP server that wakes a sleeping machine and sends you to it. Open its link and it:
 
 1. sends a Wake-on-LAN magic packet to the configured MAC,
